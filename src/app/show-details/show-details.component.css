@@ -1,0 +1,32 @@
+table {
+ text-align: center;
+  width: 60%;
+  margin-left: 28rem;
+  margin-top: 0.9rem;
+  border-collapse: collapse;
+  outline: 5px solid rgb(36, 106, 204); 
+}
+
+  
+#btn1{
+  margin-left: 34rem;
+
+}
+
+#btn2{
+  margin-left: 12rem;
+}
+  .box{
+    width: 120%;
+    display: flex;
+    flex-wrap: wrap;
+   
+  }
+
+  /* img{
+    margin-top: 0.3rem;
+    width: 15rem;
+    height: 12rem;
+  } */
+
+  

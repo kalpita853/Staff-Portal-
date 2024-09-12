@@ -1,0 +1,20 @@
+.btn{
+    border: 1.5px solid #000000;
+    margin-right: 20px;
+    box-shadow: 10 4px 8px rgba(181, 60, 60, 0.1);
+
+}
+
+.inline{
+    display: flex;
+}
+
+
+.inline .btn{
+    margin-left: 1rem;
+}
+
+input{
+    border: 3px solid #3450b8;
+    box-shadow: 10 4px 8px rgba(0, 0, 0, 0.1);
+}
